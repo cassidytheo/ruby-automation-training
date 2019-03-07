@@ -28,3 +28,7 @@ No specific version needed as far as I know, this is just a simple script after 
 ```
 ruby Main.rb
 ```
+
+### Additional Notes
+You can also edit the scripts using you favorite supported IDE. Mine is [Eclipse](https://www.eclipse.org/)
+Have fun!!
