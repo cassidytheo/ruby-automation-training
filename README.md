@@ -30,5 +30,4 @@ ruby Main.rb
 ```
 
 ### Additional Notes
-You can also edit the scripts using you favorite supported IDE. Mine is [Eclipse](https://www.eclipse.org/)
-Have fun!!
+You can also edit the scripts using you favorite supported IDE. Mine is [Eclipse](https://www.eclipse.org/). Have fun!!
